@@ -1,0 +1,7 @@
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\bin\Debug\bubble-sort.exe.config
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\bin\Debug\bubble-sort.exe
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\bin\Debug\bubble-sort.pdb
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\obj\Debug\bubble-sort.csproj.AssemblyReference.cache
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\obj\Debug\bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\obj\Debug\bubble-sort.exe
+C:\Users\misa\source\repos\bubble-sort\bubble-sort\obj\Debug\bubble-sort.pdb
